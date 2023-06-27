@@ -39,7 +39,6 @@ public ReverseWords(string str)
 * IT Step Academy
 * FreeCodeCamp (in progress)
 * LearnJavaScript (in progress)  
-
 ## Languages
 * Russian - Native
 * English - Pre-intermediate
